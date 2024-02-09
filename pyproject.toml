@@ -1,0 +1,4 @@
+[tool.isort]
+profile = "black"
+src_paths = ["make_http_requests", "test"]
+honor_noqa = true
